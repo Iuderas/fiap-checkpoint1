@@ -167,3 +167,7 @@ Este projeto faz parte das aulas de Arquitetura Orientada a Serviços (SOA) e We
 ✅ Utilizar Spring Data JPA para persistência de dados
 ✅ Configurar um banco de dados H2 em memória
 ✅ Carregar dados iniciais com um DataLoader
+
+Lucas Yuji - RM99757
+Enzo Luiz - RM99666
+Gustavo Bonfim - RM98864
